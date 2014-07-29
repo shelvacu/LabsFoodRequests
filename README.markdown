@@ -15,4 +15,4 @@ This might seem a bit obscure, but:
 
 ## Current Food Requests
 
-- [Restaurant Name](http://google.maps/link.here)
+- [Main Street Gyros](http://seattlegyros.com/)
