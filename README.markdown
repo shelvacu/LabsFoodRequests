@@ -16,3 +16,6 @@ This might seem a bit obscure, but:
 ## Current Food Requests
 
 - [Main Street Gyros](http://seattlegyros.com/)
+- [Mcoys Firehouse](http://mccoysfirehouse.com/)
+- [Tats Deli](http://www.tatsdeli.com/default.asp)
+- [Green Leaf Vietnamese](http://greenleaftaste.com/#!/home/)
